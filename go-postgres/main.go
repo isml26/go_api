@@ -7,8 +7,8 @@ import (
 	"os"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/isml26/go-api/models"
-	"github.com/isml26/go-api/storage"
+	"github.com/isml26/go-postgres/models"
+	"github.com/isml26/go-postgres/storage"
 	"github.com/joho/godotenv"
 	"gorm.io/gorm"
 )

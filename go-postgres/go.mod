@@ -1,4 +1,4 @@
-module github.com/isml26/go-api
+module github.com/isml26/go-postgres
 
 go 1.18
 

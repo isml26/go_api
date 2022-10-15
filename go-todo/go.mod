@@ -1,4 +1,4 @@
-module github.com/isml26/go_api
+module github.com/isml26/go-todo
 
 go 1.18
 
